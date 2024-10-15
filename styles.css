@@ -1,0 +1,12 @@
+body {
+  background-color: lightgrey;
+}
+
+.mealDiv {
+  padding: 20px;
+  text-align: center;
+}
+.mealImage {
+  width: 300px;
+  border-radius: 10px;
+}
